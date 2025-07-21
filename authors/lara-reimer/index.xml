@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lara Reimer | BILD</title>
+    <link>https://bild2025.github.io/authors/lara-reimer/</link>
+      <atom:link href="https://bild2025.github.io/authors/lara-reimer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lara Reimer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://bild2025.github.io/authors/lara-reimer/avatar_hueab4835b7bd634ab70bb34cf0dcdc538_358802_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Lara Reimer</title>
+      <link>https://bild2025.github.io/authors/lara-reimer/</link>
+    </image>
+    
+  </channel>
+</rss>
